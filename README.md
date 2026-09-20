@@ -10,7 +10,7 @@ Uma aplicação web para pesquisar e explorar informações sobre Pokémon.
 
   <br />
 
-[🌐 **Acessar a Poke Guide**](https://alissonromaosantos.github.io/poke-guide/)
+[🌐 **Acessar Poke Guide**](https://alissonromaosantos.github.io/poke-guide/)
 
   <br />
 
