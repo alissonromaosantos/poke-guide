@@ -1,4 +1,4 @@
-<div align="center">
+0<div align="center">
 
   <img src="./src/assets/images/logo.svg" alt="Poke Guide Logo" width="90" />
 
@@ -145,7 +145,7 @@ Antes de começar, você precisa ter instalado:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/romaosantosalisson/poke-guide.git
+git clone https://github.com/alissonromaosantos/poke-guide.git
 ```
 
 Entre na pasta:
