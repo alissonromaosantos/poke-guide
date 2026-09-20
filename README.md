@@ -303,6 +303,8 @@ Desenvolvido com ❤️, ☕ e muito código.
 Se o **Poke Guide** foi útil ou interessante, considere deixar uma ⭐ no repositório!
 
   <br />
+  
+---
 
 **© 2026 Poke Guide** - *Made with ❤️ and ☕ by Álisson Romão Santos*
 
