@@ -10,7 +10,7 @@ Uma aplicação web para pesquisar e explorar informações sobre Pokémon.
 
   <br />
 
-[🌐 **Acessar o Poke Guide**](https://romaosantosalisson.github.io/poke-guide/)
+[🌐 **Acessar o Poke Guide**](https://alissonromaosantos.github.io/poke-guide/)
 
   <br />
 
@@ -248,7 +248,7 @@ O projeto está hospedado no **GitHub Pages** e possui um workflow do **GitHub A
 
 ### 🌐 Acesse o projeto
 
-<a href="https://romaosantosalisson.github.io/poke-guide/">
+<a href="https://alissonromaosantos.github.io/poke-guide/">
   <img
     src="https://img.shields.io/badge/🌐%20Poke%20Guide-Acessar%20Aplicação-2ea44f?style=for-the-badge"
     alt="Acessar Poke Guide"
