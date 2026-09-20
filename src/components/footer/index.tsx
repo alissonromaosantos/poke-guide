@@ -8,7 +8,7 @@ export function Footer() {
       <p className="footer-content">
         &copy; {new Date().getFullYear()} <strong>Poke Guide</strong> — {t("footer")}{" "}
         <strong className="footer-author">
-          <a href="https://github.com/romaosantosalisson" target="_blank">
+          <a href="https://github.com/alissonromaosantos" target="_blank">
             Álisson
           </a>
         </strong>
