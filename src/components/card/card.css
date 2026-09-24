@@ -1,4 +1,3 @@
-/* Container principal para centralizar e dar espaçamento ao Card */
 .pokemon-card-container {
   display: flex;
   justify-content: center;
@@ -6,11 +5,10 @@
   padding: 2rem 1.5rem;
 }
 
-/* O Card de Pokémon - Design Premium */
 .pokemon-card {
   position: relative;
-  width: 100%; /* Mobile-first: full width */
-  max-width: 320px; /* Limit width on larger screens */
+  width: 100%;
+  max-width: 320px; 
   font-family: "Oswald", sans-serif;
   background-color: var(--cards);
   border-radius: 2.4rem;
@@ -33,7 +31,6 @@
   border: 1px solid rgba(248, 250, 252, 0.08);
 }
 
-/* Identificador do Pokémon (#025) */
 .pokemon-id {
   position: absolute;
   top: 2rem;
@@ -46,7 +43,6 @@
   letter-spacing: 0.05em;
 }
 
-/* Container da Imagem com efeito Glow e circular */
 .pokemon-image-container {
   position: relative;
   width: 180px;
@@ -61,7 +57,6 @@
   transition: all 0.4s ease;
 }
 
-/* Efeito luminoso de fundo que brilha suavemente */
 .pokemon-image-glow {
   position: absolute;
   width: 100%;
@@ -73,7 +68,6 @@
   transition: all 0.4s ease;
 }
 
-/* Ajustes de gradiente e brilho baseados em tipos principais para ser expansível */
 .pokemon-card.card-type-eletrico .pokemon-image-container {
   background: linear-gradient(180deg, rgba(250, 204, 21, 0.15) 0%, rgba(250, 204, 21, 0.02) 100%);
 }
@@ -82,7 +76,6 @@
   background: radial-gradient(circle, rgba(250, 204, 21, 0.3) 0%, transparent 70%);
 }
 
-/* Imagem do Pokémon */
 .pokemon-image {
   width: 150px;
   height: 150px;
@@ -241,6 +234,5 @@
 }
 
 .rounded {
-  /* width: 250px; */
   border-radius: 50%;
 }
